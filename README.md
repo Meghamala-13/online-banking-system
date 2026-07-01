@@ -195,7 +195,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👨‍💼 Author
 
-**Meghamala-13**
+**Mallavarapu.Meghamala**
 
 ## 📞 Support
 
